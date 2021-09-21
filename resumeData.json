@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Sathyakrishna T",
+    "description":"To pursue a challenging career and to be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization",
+    "image":"proPIC.JPG",
+    "bio":"Diligent Software Engineering student from VELLORE INSTITUTE OF TECHNOLOGY with proven research and communication skills. Interned at Infosys Technologies Private Limited and TrakInvest where I got exposed to technologies of a Full stack developer and the experience of working in the corporate world",
+    "contactmessage":"Contact Me",
+    "email": "sathyakrishnata@gmail.com",
+    "phone": "9487515052",
+    "github":"https://github.com/sathya4555",
+     
+    "address":{
+      "street":"5/295C,UKPN Nagar,Gandhi Nagar(post),Udumalpet",
+      "city":"Tiruppur",
+      "state":"TamilNadu",
+      "zip": "642154"
+    },
+   
+   
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/sathya_4555",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sathya-krishna-57614a173/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/sathya._.krishna",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/sathya4555",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"VELLORE INSTITUTE OF TECHNOLOGY",
+        "degree":"M.Tech Intergrated Software Engineerng",
+        "graduated":"May 2021"
+       
+      },
+      {
+        "school":"SHREE SARASSWATHI VIDHYAAH MANDHEER",
+        "degree":"12th grade",
+        "graduated":"April 2016"
+      },
+      {
+        "school":"RIVERSIDE PUBLIC SCHOOL",
+        "degree":"10th grade",
+        "graduated":"April 2014"
+      }
+    ],
+    "work":[
+   
+      {
+        "company":"TrakInvest",
+        "title":"Full stack developer",
+        "years":"June 2017 -  Present"
+      },
+      {
+        "company":"Infosys Technologies Private Limited",
+        "title":"Intern",
+        "years":"Feb 2021 - May 2021"
+      }
+    ],
+    "skills":[
+      {
+        "name":"NodeJS",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"NestJs",
+        "level":"94%"
+      },
+      {
+        "name":"PHP",
+        "level":"75%"
+      },
+      {
+        "name":"Angular",
+        "level":"60%"
+      },
+      {
+        "name":"PostGres",
+        "level":"87%"
+      },
+      {
+        "name":"RabbitMQ",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"Bash scripting",
+        "level":"68%"
+      }
+      
+      
+    ]
+
+
+
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Content Management System",
+        "image":"cms.jpg",
+        "url":"https://github.com/sathya4555/ComponentManagementSystemFrontend",
+        "desc": "A content management system is learning platform which has various components like Video,Quizes,Posts etc. The project uses MICROSOFT AZURE for storage and RABBITMQ as a message broker so that the users have a good experience using the application"
+      },
+      {
+        "title":"Resume",
+        "image":"6.jpg",
+        "url":"https://github.com/sathya4555/ComponentManagementSystemFrontend",
+        "desc": "Single page webpage which contains all my main projects and my contact details. I have showcased my UI design abilities in this project. This project has links to my various other projects which are uploaded in GitHub "
+      },
+      {
+        "title":"Multi-Tenant Platform",
+        "image":"platform11.png",
+        "url":"https://github.com/sathya4555/DynamicPlatformUI",
+        "desc": "The project is a multi tenant application where the roles of tenant and also the tenant details are managed. The project is DYNAMIC so that values are being fetched from the JSON and are resed on the same component. The project uses AWS COGNITO for authentication and authorization so that the security of the application is well maintained "
+      },
+      {
+        "title":"Epileptic-Seizures-Prediction-Using-Machine-Learning",
+        "image":"es.png",
+        "url":"https://github.com/sathya4555/Employee-Angular",
+        "desc": "Epileptic seizures are manifestations of epilepsy, a serious brain dynamical disorder second only to strokes. Seizures are predicted using machine learning techniques like KNN algorithm and Random forest  "
+      }
+    
+    ]
+  }
+
+}
